@@ -17,7 +17,9 @@ cats_and_dogs
     |______ dogs: [dog.2000.jpg, dog.2001.jpg ...]
 |__ test: [1.jpg, 2.jpg ...]
 ```
+
 *
+
 Additional Resources
 To learn more about TensorFlow and Keras, you may find the following resources helpful:
 #Tensorflow
