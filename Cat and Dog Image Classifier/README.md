@@ -1,4 +1,3 @@
-markdown
 
 # Cats and Dogs Image Classification Project
 
