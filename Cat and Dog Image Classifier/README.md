@@ -6,7 +6,7 @@ This project involves creating a convolutional neural network (CNN) to classify 
 *
 ## Project Structure
 
-The structure of the dataset files that are downloaded looks like this (You will notice that the test directory has no subdirectories and the images are not labeled):
+The structure of the dataset files that are downloaded looks like this (You will notice that the test directory has no subdirectories and the images are not labelled):
 ```
 cats_and_dogs
 |__ train:
@@ -18,13 +18,13 @@ cats_and_dogs
 |__ test: [1.jpg, 2.jpg ...]
 ```
 
-*
+**
 
 Additional Resources
 To learn more about TensorFlow and Keras, you may find the following resources helpful:
-#Tensorflow
+# Tensorflow
 TensorFlow Documentation: https://www.tensorflow.org/api_docs/python/tf/all_symbols
-#Keras
+# Keras
 Keras Documentation: https://keras.io/guides/
 
 Good luck with your project!
